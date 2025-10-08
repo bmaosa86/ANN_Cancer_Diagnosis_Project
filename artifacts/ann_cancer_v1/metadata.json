@@ -1,0 +1,10 @@
+{
+  "created_at": "2025-10-08T11:55:51.225256Z",
+  "framework": "tensorflow",
+  "model": "artifacts\\ann_cancer_v1\\model.keras",
+  "scaler": "artifacts\\ann_cancer_v1\\scaler.joblib",
+  "feature_columns": "artifacts\\ann_cancer_v1\\feature_columns.json",
+  "decision_threshold": 0.45000000000000007,
+  "train_rows": 455,
+  "val_rows": 114
+}
